@@ -1,0 +1,4 @@
+*.jam
+__pycache__/
+build/
+logs/
